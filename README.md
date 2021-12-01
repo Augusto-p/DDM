@@ -1,5 +1,5 @@
 # DDM
-Es un programa que permite Descargar musica desde Deezer Atrabes de una playList de YouTube 
+Es un programa que permite Descargar musica desde Deezer Apartir de una playList de YouTube 
 
 # Requermentos
 - Python 3
